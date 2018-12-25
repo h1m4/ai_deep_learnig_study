@@ -14,7 +14,7 @@
 
 [Data Quest](https://www.dataquest.io/)
 
-[Data Camp](ttps://www.datacamp.com/)
+[Data Camp](https://www.datacamp.com/)
 
 ## 앞으로 공부할 강의들
 
